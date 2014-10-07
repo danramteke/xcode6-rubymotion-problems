@@ -1,0 +1,1 @@
+../../../SnappySlider/Classes/SnappySlider.h
